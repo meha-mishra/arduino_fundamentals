@@ -2,7 +2,7 @@
 #include <Servo.h>
 
 const int ServoPin = 6;
-const int TriggerPing = 2; //digital pin
+const int TriggerPin = 2; //digital pin
 const int EchoPin = 3; //digital pin with PWM (pulse width modulator)
 
 NewPing sonar (TriggerPin, EchoPin, 30);
