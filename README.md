@@ -19,7 +19,8 @@ Each file in this repository corresponds to a lab activity or experiment involvi
 - led_dim_lab: make an LED turn on, off, or a variable dim setting according to input from a button and a potentiometer
 - LineDetecting: make an IR sensor detect a black line and correspond its orientation (left/middle/right sensor) to an LED
 - UltrasonicServo: connect a Servo motor to an ultrasonic sensor to detect an object up to 30 cm away
-- LineCounter: make the Mobot stop after driving over a certain number of black lines
+- LineCounter: make the Mobot stop after driving over two black lines
+- ControlSystemsChallenge: combination of LineCounter and Ultrasonic Sensor
 
 ## 🛠 Technologies Used
 
